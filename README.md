@@ -58,36 +58,42 @@
 
 <table align="left">
   <tr>
-    
     <td align="center" width="96">
-        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="48" width="48" /></a>
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="48" width="48" />
+      </a>
       <br>CSS3
     </td>
     <td align="center" width="96">
-        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="48" width="48" /></a>
+      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="48" width="48" />
+      </a>
       <br>HTML5
     </td>
   </tr>
   <tr>
-<!--     <td align="center" width="96">
-          <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="./assets/android.gif" alt="android" width="40" height="40"/> </a>
-      <br>Android
-    </td> -->
     <td align="center" width="96">
-          <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="40" width="40" /></a>
-      <br>Javascript
+      <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="40" width="40" />
+      </a>
+      <br>JavaScript
     </td>
-      <td align="center" width="96">
-          <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" height="40" width="40" /></a>
-      <br>Typescript
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" height="40" width="40" />
+      </a>
+      <br>TypeScript
     </td>
-    <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="react" />
+    <td align="center" width="96">
+      <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+      </a>
       <br>React
-    </td> 
+    </td>
   </tr>
 </table>
 <br clear="left" />
+
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" /> Backend
 
