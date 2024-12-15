@@ -1,25 +1,26 @@
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> , I'm TheLp281 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
 
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=thelp281&&style=flat" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=thelp281&style=flat" align="center" />
 </div>
 <br>
-<p align="left"><strong><samp></samp></strong></p>
-  <p align="center">
-    <samp>
-        I am a Linux Enthusiast and Lost Developer. Please help me find my way <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Holding%20Back%20Tears.png" alt="Face Holding Back Tears" width="25" height="25" />
-        <br>
-        <image src="https://readme-typing-svg.herokuapp.com?size=14&color=97a4e2&center=true&width=410&height=45&lines=I+am+still+thinking+'probably🤔'.">
-    </samp>
-  </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+<p align="left"><strong></strong></p>
+<p align="center">
+  I am a Linux Enthusiast and Lost Developer. Please help me find my way 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Holding%20Back%20Tears.png" alt="Face Holding Back Tears" width="25" height="25" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?size=14&color=97a4e2&center=true&width=410&height=45&lines=I+am+still+thinking+'probably🤔'.">
+</p>
+<p align="right"><strong>」</strong></p>
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Moai.webp" alt="Moai" width="25" height="25" /> Currently Working On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Microscope.webp" alt="Microscope" width="25" height="25" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Moai.webp" alt="Moai" width="25" height="25" /> Working on a project 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Microscope.webp" alt="Microscope" width="25" height="25" />
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="25" height="25" /> I’m currently working on a feature rich chatapp.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="25" height="25" /> I’m currently working on a feature-rich chat app.
 
 ---
+
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Recent Activity
 
