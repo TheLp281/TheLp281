@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=thelp281&style=flat" align="center" />
 </div>
 <br>
-<p align="left"><strong></strong></p>
+<p align="left"><strong>「</strong></p>
 <p align="center">
   I am a Linux Enthusiast and Lost Developer. Please help me find my way 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Holding%20Back%20Tears.png" alt="Face Holding Back Tears" width="25" height="25" />
