@@ -17,7 +17,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Moai.webp" alt="Moai" width="25" height="25" /> Working on a project 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Microscope.webp" alt="Microscope" width="25" height="25" />
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="25" height="25" /> I’m currently working on a feature-rich chat app.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="25" height="25" /> I’m currently working on a feature-rich message app.
 
 ---
 
@@ -91,8 +91,8 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <a href="https://www.rust-lang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="48" width="48" /></a>
-      <br>Rust
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="nodejs" />
+      <br>Go
     </td>
   </tr>
 </table>
