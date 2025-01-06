@@ -67,6 +67,12 @@
       </a>
       <br>React
     </td>
+    <td align="center" width="96">
+      <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="48" height="48" />
+      </a>
+      <br>Svelte
+    </td>
   </tr>
 </table>
 <br clear="left" />
