@@ -47,6 +47,12 @@
       </a>
       <br>HTML5
     </td>
+    <td align="center" width="96">
+      <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="48" height="48" />
+      </a>
+      <br>Svelte
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -66,12 +72,6 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
       </a>
       <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="48" height="48" />
-      </a>
-      <br>Svelte
     </td>
   </tr>
 </table>
