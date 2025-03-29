@@ -100,6 +100,10 @@
         <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="nodejs" />
       <br>Go
     </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="nodejs" />
+    <br>.Net Core
+    </td>
   </tr>
 </table>
 <br clear="left" />
