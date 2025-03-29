@@ -86,6 +86,10 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
       <br>PostgreSQL
     </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="netcore" />
+      <br>Net Core
+    </td>
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -97,15 +101,18 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="nodejs" />
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
       <br>Go
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="nodejs" />
-    <br>.Net Core
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
     </td>
   </tr>
 </table>
+
 <br clear="left" />
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cloud%20With%20Lightning.webp" alt="Cloud With Lightning" width="25" height="25" /> DevOps
@@ -137,6 +144,10 @@
     <td align="center" width="96">
           <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./assets/docker.svg" alt="docker" width="40" height="40"/> </a>
       <br>Docker
+    </td>
+      <td align="center" width="96">
+          <a href="https://render.com" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/hvk0tap5/production/0ea63c1b6854bd803489557afb4ea54b85239418-128x128.png?fit=max&auto=format" alt="render" width="40" height="40"/> </a>
+      <br>Render
     </td>
   </tr>
   <tr>
