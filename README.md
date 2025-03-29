@@ -92,7 +92,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"  width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>Node.js
     </td>
@@ -100,18 +100,19 @@
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
       <br>Go
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
   </tr>
 </table>
+
 
 <br clear="left" />
 
